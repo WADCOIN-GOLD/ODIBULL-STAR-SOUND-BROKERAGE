@@ -1,0 +1,17 @@
+node_modules/
+cjs/
+dist/
+build/
+lib/
+.env
+npm-debug.log
+yarn-error.log
+package-lock.json
+.DS_Store
+lerna-debug.log
+.filmstrip
+*.tsbuildinfo
+
+package/
+coinbase-cbpay-js-*.tgz
+.vscode
